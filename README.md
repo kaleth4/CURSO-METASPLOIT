@@ -122,9 +122,7 @@ https://github.com/kaleth4/CURSO-METASPLOIT/videoplayback.mp4
 
 Además verifica que la URL sea correcta — debe tener `/assets/` en el medio:
 ```
-https://github.com/kaleth4/CURSO-METASPLOIT/videoplayback.mp4
-</div>
- 
+https://github.com/kaleth4/CURSO-METASPLOIT/assets/XXXXXXX/videoplayback.mp4
 ---
  
 ## 🗂️ Arquitectura de Módulos
