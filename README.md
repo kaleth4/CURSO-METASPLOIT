@@ -109,20 +109,9 @@ sudo msfdb init
 <div align="center">
  
 ```
-┌─────────────────────────────────────────────────┐
-│                                                  │
-│           [ 🎬 INSERTAR VIDEO AQUÍ ]             │
-│                                                  │
-│   Arrastra tu .mp4 al editor de GitHub o        │
-│   reemplaza esta sección con el embed            │
-│   generado automáticamente por GitHub.           │
-│                                                  │
-│   Tamaño recomendado: máx. 100MB                │
-│                                                  │
-└─────────────────────────────────────────────────┘
-```
- 
-[![Ver Demo](videoplayback.mp4▶_Agregar_Video_Demo-555555?style=for-the-badge)](.)
+## 📹 Video Demostrativo
+
+https://github.com/kaleth4/CURSO-METASPLOIT/videoplayback.mp4
  
 </div>
  
