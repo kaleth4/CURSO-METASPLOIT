@@ -82,30 +82,7 @@ sudo msfconsole -q
 sudo msfdb init
 ```
 
-```
-<div align="center">
 
-## 📹 Video Demostrativo
-
- https://github.com/kaleth4/CURSO-METASPLOIT/blob/main/videoplayback.mp4
-
-</div>
-```
-
-**Quita las tres comillas** que están en la línea 111 y 113. Esas comillas están convirtiendo todo en un bloque de código en lugar de renderizar el video.
-
-Además verifica que la URL sea correcta — debe tener `/assets/` en el medio:
-```
- https://github.com/kaleth4/CURSO-METASPLOIT/blob/main/videoplayback.mp4
-
-
-```
-
-**Quita las tres comillas** que están en la línea 111 y 113. Esas comillas están convirtiendo todo en un bloque de código en lugar de renderizar el video.
-
-Además verifica que la URL sea correcta — debe tener `/assets/` en el medio:
-```
- https://github.com/kaleth4/CURSO-METASPLOIT/blob/main/videoplayback.mp4
 ---
  
 ## 🗂️ Arquitectura de Módulos
@@ -302,7 +279,7 @@ msf exploit > run
  
 ## 🧪 Práctica: Explotación EternalBlue (MS17-010)
  
-<img src="eternalblue_demo.png" width="100%" alt="Demo EternalBlue en Kali Linux"/>
+<img src="8.png" width="100%" alt="Demo EternalBlue en Kali Linux"/>
  
 ```
 Objetivo   : Windows Server 2008 R2 SP1 — 192.168.1.51
@@ -330,9 +307,9 @@ meterpreter > getuid
  
 ## 📊 Guía Visual
  
-<img src="metasploit_guia.png" width="100%" alt="Metasploit — Guía Esencial de Explotación"/>
+<img src="Captura de pantalla 2026-03-17 134830.png" width="100%" alt="Metasploit — Guía Esencial de Explotación"/>
  
-<img src="exploit_modules.png" width="100%" alt="Módulos de Exploit en msfconsole"/>
+<img src="4.png" width="100%" alt="Módulos de Exploit en msfconsole"/>
  
 ---
  
