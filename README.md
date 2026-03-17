@@ -109,10 +109,20 @@ sudo msfdb init
 <div align="center">
  
 ```
+<div align="center">
+
 ## 📹 Video Demostrativo
 
 https://github.com/kaleth4/CURSO-METASPLOIT/videoplayback.mp4
- 
+
+</div>
+```
+
+**Quita las tres comillas** que están en la línea 111 y 113. Esas comillas están convirtiendo todo en un bloque de código en lugar de renderizar el video.
+
+Además verifica que la URL sea correcta — debe tener `/assets/` en el medio:
+```
+https://github.com/kaleth4/CURSO-METASPLOIT/videoplayback.mp4
 </div>
  
 ---
