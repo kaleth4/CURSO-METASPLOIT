@@ -82,40 +82,7 @@ sudo msfconsole -q
 sudo msfdb init
 ```
  
----
- 
-## 📹 Video Demostrativo
- 
-> 🎬 **Demostración completa del flujo de explotación con Metasploit**
- 
-<!--
-  INSTRUCCIONES PARA AGREGAR EL VIDEO:
-  
-  OPCIÓN 1 — Video en GitHub (recomendado):
-  Arrastra y suelta el archivo .mp4 directamente en el editor de GitHub
-  al editar este README. GitHub generará el embed automáticamente.
-  
-  OPCIÓN 2 — Thumbnail clickeable hacia YouTube/Drive:
-  Reemplaza la URL de la imagen y el enlace:
-  
-  [![Demo Metasploit](https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube)](URL_DEL_VIDEO)
-  
-  OPCIÓN 3 — HTML embed (si usas GitHub Pages):
-  <video width="100%" controls>
-    <source src="demo_metasploit.mp4" type="video/mp4">
-  </video>
--->
- 
-<div align="center">
- 
-```
-<div align="center">
 
-## 📹 Video Demostrativo
-
-https://github.com/kaleth4/CURSO-METASPLOIT/videoplayback.mp4
-
-</div>
 ```
 
 **Quita las tres comillas** que están en la línea 111 y 113. Esas comillas están convirtiendo todo en un bloque de código en lugar de renderizar el video.
